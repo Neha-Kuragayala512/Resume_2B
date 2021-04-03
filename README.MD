@@ -1,4 +1,4 @@
-# NEHA
+#  NEHA
 
 ===========
 ### Personal Details
@@ -14,26 +14,26 @@
  - **2019-2023**
  - **Chowdavaram,Guntur,Andhra Pradesh,India**
  
--Intermediate 
+- Intermediate 
  - **Bhashyam jr college**
  - **MPC**
  - **2017-2019**
  - **Guntur,Andhra Pradesh,India**
  
- -SSC
+ - SSC
  - **Bhashyam Blooms Public School**
  - **SSC**
  - **2016-2017**
  - **Guntur,Andhra Pradesh,India**
  
- -Technical Skills
+ - Technical Skills
  - **Python**
  - **Java**
  - **C**
  - **DBMS**
  - **Git & Github**
   
-  #### Certifications
+  ####  Certifications
    - **certified by fullstack nano degree in udacity**
    - **certified by machine learning in unschool**
    - **completed soft skills program by TCS**
