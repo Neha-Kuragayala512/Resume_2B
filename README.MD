@@ -22,7 +22,8 @@
  
 - SSC
  - **Bhashyam Blooms Public School**
- - **SSC**
+ - **SSC**  
+
  - **2016-2017**
  - **Guntur,Andhra Pradesh,India**
 - Technical Skills
