@@ -8,7 +8,7 @@
 - Address:xxxxxxxxxxxx
 
 ### Educational Details
--B.Tech
+- B.Tech
  - **RVR & JCCE**
  - **CSE**
  - **2019-2023**
@@ -20,13 +20,12 @@
  - **2017-2019**
  - **Guntur,Andhra Pradesh,India**
  
- - SSC
+- SSC
  - **Bhashyam Blooms Public School**
  - **SSC**
  - **2016-2017**
  - **Guntur,Andhra Pradesh,India**
- 
- - Technical Skills
+- Technical Skills
  - **Python**
  - **Java**
  - **C**
